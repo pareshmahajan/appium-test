@@ -1,0 +1,20 @@
+{
+  "name": "appiumpoc",
+  "version": "1.0.0",
+  "description": "a poc to test appium cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "appium"
+  },
+  "keywords": [
+    "wbdio",
+    "device"
+  ],
+  "author": "damitj & pareshm",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "^1.17.0",
+    "appium-chromedriver": "^4.21.1",
+    "webdriverio": "^5.22.4"
+  }
+}
